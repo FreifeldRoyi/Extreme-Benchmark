@@ -8,7 +8,7 @@ Simple benchmark for different programming languages and platforms
 4. Measure requests per seconds
 
 ## Rules
-1. This is a gentelmen's bet! We help each other get the best results (although we prefer one framework/language over the other)
+1. Help each other get the best results (although we prefer one framework/language over the other)
 2. This will be an iterative process. Once we are satisfied with the results add a suitable git tag. See description in _TAGS_ section
 3. Keep everything organized! Each improvement should be committed to GITHUB. Each excercise should have its own folder
 
